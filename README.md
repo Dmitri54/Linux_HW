@@ -6,7 +6,7 @@
 
 ## Выполнение
 
-[Перейти к скрипту](C:\Users\User\Desktop\Linux_HW\delDir.sh)
+[Перейти к скрипту](https://github.com/Dmitri54/Linux_HW/blob/main/delDir.sh)
 
 Создаем и открываем файл следующими командами:
 
